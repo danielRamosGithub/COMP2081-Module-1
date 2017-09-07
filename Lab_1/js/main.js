@@ -1,0 +1,1 @@
+document.getElementById("teste").classList.remove("hidden");
